@@ -1,0 +1,25 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 908, in script
+    
+  File "game/script.rpy", line 908, in <module>
+    
+NameError: name 'lin_dead' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 908, in script
+    
+  File "C:\Program Files (x86)\RenPy\renpy\ast.py", line 1587, in execute
+    if renpy.python.py_eval(condition):
+  File "C:\Program Files (x86)\RenPy\renpy\python.py", line 1416, in py_eval
+    return eval(py_compile(source, 'eval'), globals, locals)
+  File "game/script.rpy", line 908, in <module>
+    
+NameError: name 'lin_dead' is not defined
+
+Windows-post2008Server-6.2.9200
+Ren'Py 6.18.3.761
+The Chairman's Decision 1.0

@@ -1,0 +1,49 @@
+﻿
+Ren'Py 6.18.3.761 lint report, generated at: Tue Apr 28 14:54:32 2015
+
+game/script.rpy:257 Could not evaluate 't', in the who part of a say statement.
+Perhaps you forgot to declare a character?
+
+game/script.rpy:262 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:263 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:264 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:265 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:266 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:267 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:268 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:269 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:270 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:274 Could not evaluate 't', in the who part of a say statement.
+
+game/script.rpy:700 The image named 'z' was not declared.
+
+game/script.rpy:734 The image named 'd' was not declared.
+
+game/script.rpy:756 The image named 'j' was not declared.
+
+game/script.rpy:758 The image named 'l' was not declared.
+
+game/script.rpy:759 The image named 'd' was not declared.
+
+
+Statistics:
+
+The game contains 503 dialogue blocks, containing 9,247 words and 51,252
+characters, for an average of 18.4 words and 102 characters per block.
+
+The game contains 4 menus, 3 images, and 12 screens.
+
+
+Remember to set config.developer to False before releasing.
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.
